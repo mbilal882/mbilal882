@@ -71,7 +71,7 @@
   ---
 
 
-  ### :woman_technologist: My Work :
+<!--     ### :woman_technologist: My Work : -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509277/Dark_qxqdfn.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg">
