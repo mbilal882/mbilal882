@@ -75,7 +75,7 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509277/Dark_qxqdfn.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg">
-  <img alt="github-snake" src="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg">
+<!--   <img alt="github-snake" src="https://res.cloudinary.com/muhammad-bilal/image/upload/v1692509195/github-user-contribution_2_vinlar.svg"> -->
 </picture>
   ---
   
